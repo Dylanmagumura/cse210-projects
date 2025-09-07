@@ -7,7 +7,7 @@ class Program
     {
         List<int> numbers = new List<int>();
 
-        Console.WriteLine("Enter a list of numbers, type 0 when finished.");
+        Console.WriteLine("Please enter a list of numbers, type 0 when finished." );
 
         int number = -1;
 
